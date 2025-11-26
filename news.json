@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "Zelensky says North Korean troops on front lines in days - Newsweek",
+            "description": "Zelensky claims North Korean soldiers may arrive on front lines within days, with up to 10,000 troops and several generals expected.",
+            "url": "https://www.newsweek.com/zelensky-claims-north-korean-soldiers-frontlines-within-days-1975007",
+            "urlToImage": "https://d.newsweek.com/en/full/2504430/ukraine-war.jpg",
+            "publishedAt": "2024-10-25T14:41:52Z",
+            "content": "Ukrainian President Volodymyr Zelensky claimed on Friday that North Korean troops are poised to be deployed by Russia on the battlefield in Ukraine as early as this weekend.\r\nWestern officials cautio… [+4269 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "RONALD BLUM",
+            "title": "The Dodgers and Yankees are ready for the starriest World Series in decades - The Associated Press",
+            "description": "The Los Angeles Dodgers and New York Yankees will play Major League Baseball's starriest World Series in decades. This figures to be the first World Series featuring five MVPs: the Dodgers’ Shohei Ohtani, Freddie Freeman and Mookie Betts, and the Yankees’ Aar…",
+            "url": "https://apnews.com/article/world-series-yankees-dogers-preview-566d47e09d6a6d946f995f568d806a5f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/c40d379/2147483647/strip/true/crop/6895x3878+0+359/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc0%2F3d%2F06b66556a970bb198d545beca197%2F62f692b6dbef492cb284db1e8c7ba603",
+            "publishedAt": "2024-10-25T14:14:00Z",
+            "content": "LOS ANGELES (AP) Even 8-year-old Charlie Freeman is excited about a Dodgers-Yankees World Series.\r\nHes at Universal (Studios) right now with a couple of his buddies, but he goes, Daddy, I cant wait f… [+4775 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong, Vivian Ho, Amanda Coletta, Adam Taylor, Susannah George, Suzan Haidamous, Steve Hendrix, John Hudson, Bryan Pietsch, Hajar Harb, Claire Parker, Hazem Balousha, Frances Vinall, Sammy Westfall",
+            "title": "Live Briefing: Gaza cease-fire talks set to resume; Iran braces for Israeli retaliation - The Washington Post",
+            "description": "The upcoming talks in Qatar represent the latest effort by the United States to forge a cease-fire after the killing of Hamas leader Yahya Sinwar.",
+            "url": "https://www.washingtonpost.com/world/2024/10/25/israel-iran-war-news-gaza-hamas-lebanon/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N5MVN7ETY4XHTZJSY3MAYAIZCE_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-10-25T14:09:18Z",
+            "content": "JERUSALEM An Israeli strike Friday hit a residence in southern Lebanon used by media outlets, killing at least three journalists, according to local officials and media reports.\r\nThe deaths occurred … [+1541 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Lebanon: Three journalists killed in Israeli air strike - BBC.com",
+            "description": "Israel is accused of targeting a compound housing journalists in southern Lebanon.",
+            "url": "https://www.bbc.com/news/articles/cpvz2rzm4k0o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/90ca/live/64aa2f40-92b7-11ef-9504-b516e8b5f45f.jpg",
+            "publishedAt": "2024-10-25T13:45:40Z",
+            "content": "Three Lebanese journalists have been killed in an Israeli air strike on a building known to be housing reporters in south-eastern Lebanon, witnesses have told the BBC.\r\nThe attack was carried out on … [+5769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "William Gavin",
+            "title": "Boeing union to striking workers: 'Bullying' each other over strike votes is 'vile' - Yahoo! Voices",
+            "description": "The union representing workers on strike against troubled aerospace firm Boeing (BA) on Thursday reminded its members that they need to stick together in...",
+            "url": "https://www.yahoo.com/tech/boeing-union-tells-striking-machinists-124500491.html",
+            "urlToImage": "https://media.zenfs.com/en/quartz.com/68f9bcd0f0c778ee3b9e75a8c9534150",
+            "publishedAt": "2024-10-25T13:44:03Z",
+            "content": "The union representing workers on strike against troubled aerospace firm Boeing (BA) on Thursday reminded its members that they need to stick together in order to get what they want.\r\nSixty-four perc… [+3181 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Joby Warrick, Jarrett Ley",
+            "title": "Satellite images show major expansion at Russian site with secret bioweapons past - The Washington Post",
+            "description": "New construction at a military research site near Moscow reveals a specialized laboratory complex designed to research and handle deadly pathogens, experts say.",
+            "url": "https://www.washingtonpost.com/national-security/interactive/2024/russia-biological-chemical-weapons-laboratory-expansion/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BFNVSU325BEPNGHWODVEAAE54I.png&w=1200",
+            "publishedAt": "2024-10-25T13:32:44Z",
+            "content": "A few months after Russia began its full-scale invasion of Ukraine in 2022, satellite imagery captured unusual activity at a restricted military research facility nestled among the birch forests nort… [+16143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KHOU.com"
+            },
+            "author": "Jaime E. Galvan",
+            "title": "Kamala Harris rally in Houston | What you need to know about Shell Energy Stadium - KHOU.com",
+            "description": "Here is what you need to know about parking, transportation, bag policy, and prohibited items at Shell Energy Stadium.",
+            "url": "https://www.khou.com/article/news/local/shell-energy-stadium-houston-bag-policy-parking-banned-items/285-0a5a87c4-fb9d-46ea-b2e1-928ea4d2dbf2",
+            "urlToImage": "https://media.khou.com/assets/KHOU/images/ef0c01b6-7f66-4a87-becd-e3644c45269f/ef0c01b6-7f66-4a87-becd-e3644c45269f_1140x641.jpg",
+            "publishedAt": "2024-10-25T13:29:00Z",
+            "content": "HOUSTON With Vice President Kamala Harris in Houston for a campaign rally expected to be at Shell Energy Stadium, here is what you need to know before you go.\r\nAlthough the details of the Harris rall… [+3894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Fred Imbert",
+            "title": "A look at how the stock market does the week before a presidential election - CNBC",
+            "description": "Wall Street is bracing for the U.S. presidential election in 11 days, and uncertainty is running high.",
+            "url": "https://www.cnbc.com/2024/10/25/all-is-not-lost-for-stocks-the-week-before-a-presidential-vote.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108052389-17297814412024-10-24t144709z_1945886083_rc22raan9pco_rtrmadp_0_usa-stocks.jpeg?v=1729792877&w=1920&h=1080",
+            "publishedAt": "2024-10-25T13:18:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "Rapper Lil Durk arrested in murder-for-hire plot - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/US/rapper-lil-durk-arrested-murder-hire-plot/story?id\\\\u003d115141549",
+            "urlToImage": null,
+            "publishedAt": "2024-10-25T12:48:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Moniuszko",
+            "title": "Second dose of this year's COVID vaccine recommended for people age 65 and up - CBS News",
+            "description": "The CDC recommends that immunocompromised people and those age 65 and older should get a second dose of the 2024-2025 COVID vaccine.",
+            "url": "https://www.cbsnews.com/news/covid-vaccine-second-dose-recommendation-cdc/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/24/58869e1e-3d4a-4ec3-bf33-89efc3d86aa5/thumbnail/1200x630/afaa33cc11521cf3aaf899e21856d7c5/gettyimages-1585070896.jpg?v=c72f52c71e431fd7dde1ba5ae2f69280",
+            "publishedAt": "2024-10-25T12:31:00Z",
+            "content": "Immunocompromised people and those who are age 65 or older should get a second dose of the 2024-2025 COVID-19 vaccine, according to the latest recommendations from the Centers for Disease Control and… [+2311 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Massaro",
+            "title": "Putin looks to halt neighboring Georgia's Western ambitions in vital election - Fox News",
+            "description": "Georgia holds critical parliamentary elections this Saturday, as voters need to decide if they want to be part of the West or move closer to President Vladimir Putin's Russia. Moscow has plowed millions into the race.",
+            "url": "https://www.foxnews.com/world/putin-looks-halt-neighboring-georgias-western-ambitions-vital-election",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/10/putin-split-image-photo-1.jpg",
+            "publishedAt": "2024-10-25T12:30:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+5420 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "A SpaceX capsule just came back to Earth. Here’s why Boeing Starliner’s astronauts weren’t on it - CNN",
+            "description": "NASA’s Suni Williams and Butch Wilmore will wait until 2025 to return to Earth on their newly assigned spacecraft, SpaceX’s Crew-9. Here’s what they’re doing in space.",
+            "url": "https://www.cnn.com/2024/10/24/science/boeing-astronauts-spacex-crew-8-splashdown/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2180073812.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-25T12:17:00Z",
+            "content": "The two test pilots for the inaugural crewed flight of Boeings Starliner spacecraft NASAs Suni Williams and Butch Wilmore left Earth for the International Space Station under the impression their tri… [+7415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Alexandra Canal",
+            "title": "Capri stock craters 45% after judge blocks $8.5 billion Tapestry deal - Yahoo Finance",
+            "description": "Shares of Capri Holdings plunged after a US judge blocked its pending $8.5 billion merger with Coach owner Tapestry.",
+            "url": "https://finance.yahoo.com/news/capri-stock-craters-45-after-judge-blocks-85-billion-tapestry-deal-232857381.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/6nlZO1R2201Eea5pkc1VSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-09/f67c27f0-721b-11ef-bbae-ba968a661cb6",
+            "publishedAt": "2024-10-25T12:07:13Z",
+            "content": "Capri Holdings (CPRI), the parent company of Michael Kors and Jimmy Choo, saw shares plunge around 46% in early trading on Friday after a US judge blocked its pending $8.5 billion acquisition by Coac… [+3706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamesRadar+"
+            },
+            "author": "Tabitha Baker",
+            "title": "Best Buy just dropped a massive gaming flash sale - these are the 11 deals I'd buy this weekend - Gamesradar",
+            "description": "Offers end Sunday",
+            "url": "https://www.gamesradar.com/hardware/best-buy-just-dropped-a-massive-gaming-flash-sale-these-are-the-11-deals-id-buy-this-weekend/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/2Z8XdMrAri47YDSvcA96sK-1200-80.jpg",
+            "publishedAt": "2024-10-25T12:05:49Z",
+            "content": "Best Buy has just launched its first major gaming flash sale of the season, dropping prices on everything from PS5 and Nintendo Switch accessories to keyboards, mice, headsets, and even full handheld… [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Cindy VonQuednow, Dalia Faheid",
+            "title": "What’s next for the Menendez brothers as DA recommends their resentencing decades after their parents’ killing - CNN",
+            "description": "In July 1996, brothers Lyle and Erik Menendez were convicted of the murders of their parents and sentenced to life in prison without the possibility of parole.",
+            "url": "https://www.cnn.com/2024/10/25/us/erik-lyle-menendez-brothers-resentencing-whats-next/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1462355302.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-25T12:03:00Z",
+            "content": "More than three decades after Lyle and Erik Menendez were convicted of the murders of their parents and sentenced to life in prison without the possibility of parole, the brothers now see a path to t… [+8818 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "James Redmayne, Alasdair Pal, Catarina Demony",
+            "title": "King Charles acknowledges 'painful' slavery past as calls for reparations intensify - Reuters",
+            "description": "The demand for Britain to pay reparations or make other amends for transatlantic slavery is a long-standing one, but has recently gained momentum worldwide.",
+            "url": "https://www.reuters.com/world/king-charles-acknowledges-commonwealths-painful-history-with-slavery-summit-2024-10-25/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/4Q4UTIWOWROR5CSORGQZCFHNOE.jpg?auth=65eb042f7d96c35911da779f058df7cd5e6028956868a40804bdf9757efe68e2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-10-25T12:02:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Faith Karimi",
+            "title": "He lost his son to fentanyl poisoning. He’s developed a video game he hopes will save others - CNN",
+            "description": "Kamal Bherwani’s final text messages to his 22-year-old son still haunt him three years later. The suburban New York dad has dedicated his life – and developed a video game – to help save other young people from fentanyl overdoses.",
+            "url": "https://www.cnn.com/2024/10/25/us/kamal-ethan-bherwani-fentanyl-overdose-cec/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ethan4.jpeg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-25T11:55:00Z",
+            "content": "Kamal Bherwanis final text messages to his 22-year-old son still haunt him three years later.\r\nIt was May 17, 2021. His son was planning to visit a Connecticut casino to celebrate his college graduat… [+8985 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Andrew Cunningham",
+            "title": "What I learned from 3 years of running Windows 11 on “unsupported” PCs - Ars Technica",
+            "description": "When your old PC goes over the Windows 10 update cliff, can Windows 11 save it?",
+            "url": "https://arstechnica.com/gadgets/2024/10/what-i-learned-from-3-years-of-running-windows-11-on-unsupported-pcs/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/IMG_2251-1-1152x648.jpeg",
+            "publishedAt": "2024-10-25T10:45:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Tyler Dragon",
+            "title": "NFL trade deadline landing spots: The best fits for the top trade candidates in 2024 - USA TODAY",
+            "description": "USA TODAY Sports explores the best fits for players who could be on the move prior to the NFL’s trade deadline.",
+            "url": "https://www.usatoday.com/story/sports/nfl/2024/10/25/nfl-trade-deadline-landing-spots-candidates-targets-2024/75823598007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/24/USAT/75825894007-usatsi-24361372.jpg?crop=4114,2316,x0,y121&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-10-25T10:05:37Z",
+            "content": "We have reached the time of year where some players around the NFL have a change of address.\r\nThere have already been a flurry of moves before the NFLs Nov. 5 trade deadline. More deals could be on t… [+7723 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "‘My vision started to deteriorate’: Polaris Dawn crew reveals impacts of history-making mission - CNN",
+            "description": "In an interview with CNN, the four civilian crew members behind SpaceX’s history-making Polaris Dawn mission reported different symptoms and ailments during their five-day journey last month.",
+            "url": "https://www.cnn.com/2024/10/25/science/spacex-polaris-dawn-astronaut-health/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/polaris04-53935054579-67f47c21d9-o-jpg.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-10-25T10:00:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nEach of the four crew members aboard SpaceXs Polaris D… [+7635 chars]"
+        }
+    ]
+}
