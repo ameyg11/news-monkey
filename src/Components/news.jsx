@@ -121,7 +121,7 @@ class News extends Component {
         </h1>
         {this.state.loading && <Spinner/>}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 justify-center max-w-screen-xl mx-auto">
-          {!this.state.loading && this.state.articles.map((e, index) => {
+          {Array.isArray(this.state.articles) && this.state.articles.map((e, index) => {
             return (
               <NewsItem
                 key={`${e.title}-${index}`}
